@@ -1,0 +1,27 @@
+.main{
+  background:red;
+  width:100%;
+  display:flex;
+  justify-content:space-around;
+}
+.left{
+  background:blue;
+  width:1;
+}
+.left img{
+  width:40%;
+}
+.right{
+  background:orange;
+  width:80%;
+
+}
+@media only screen and(min-device-width:350px) and (max-device-width:400px) {
+  .main{
+    width:100%
+
+  }
+  .left{
+    width:50%;
+  }
+}
