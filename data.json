@@ -1,0 +1,21 @@
+{
+  "basics":{
+  "co":"to purse technical knowledge"
+},
+
+  "education":[
+    {
+    "name":"S S C",
+    "isnt":"Zph school",
+    "per:58%"
+  },
+  {
+    "name":"intermediate:",
+    "inst":"completed my schooling in intermediate,chalr in 101%",
+  },
+  {
+    "name":"intermediate:",
+    "inst":"completed my schooling",
+  }
+]
+}
