@@ -2,19 +2,22 @@
   background:red;
   width:100%;
   display:flex;
-  justify-content:space-around;
+flex-direction: row;
 }
 .left{
   background:blue;
-  width:1;
+  width:30%;
+  padding: 2%;
+  margin: 2%;
 }
 .left img{
-  width:40%;
+  width:90%;
 }
 .right{
   background:orange;
-  width:80%;
-
+  width:70%;
+  padding: 2%;
+  margin: 2%;
 }
 @media only screen and(min-device-width:350px) and (max-device-width:400px) {
   .main{

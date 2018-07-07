@@ -1,21 +1,32 @@
 {
   "basics":{
-  "co":"to purse technical knowledge"
+ "co":"this my sternght"
 },
-
-  "education":[
-    {
-    "name":"S S C",
-    "isnt":"Zph school",
-    "per:58%"
-  },
-  {
-    "name":"intermediate:",
-    "inst":"completed my schooling in intermediate,chalr in 101%",
-  },
-  {
-    "name":"intermediate:",
-    "inst":"completed my schooling",
-  }
+ "Achieve":{
+   "details":"@@@@@@@@@@@  I won my Achievements     &&&&&&&&&"
+},
+ "education":[
+   {
+   "name":"S S c",
+   "inst":"zep school mangalagiri with 90%"
+ },
+ {
+   "name":"intermediate:",
+   "inst":"completed my schooling with 89%"
+ },
+ {
+   "name":"btech",
+ "inst":"aliet"
+}
+],
+"tech":[
+ {
+ "op":"operating system:",
+ "values":"windows,linux,ect."
+},
+{
+ "op":"languages",
+ "values":"HTML5,CSS3,javascript,Angular JS"
+ }
 ]
 }
